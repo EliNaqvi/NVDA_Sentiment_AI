@@ -13,7 +13,7 @@ This project uses **OpenAI's GPT model** to analyze the sentiment of daily headl
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 - Python 3.x  
 - An [OpenAI API key](https://platform.openai.com/account/api-keys)
