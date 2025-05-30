@@ -27,4 +27,4 @@ This project uses **OpenAI's GPT model** to analyze the sentiment of daily headl
 The notebook produces a scatter plot showing how the sentiment of news headlines might relate to short-term price movements for NVDA.
 
 Replace this line with your actual plot once you run the notebook:
-![Sentiment vs Price Change Plot](your_image_path_here)
+![Sentiment vs Price Change Plot](your image_path_here)
