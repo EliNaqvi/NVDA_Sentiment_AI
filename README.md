@@ -1,6 +1,6 @@
 #  NVDA Sentiment-Based Stock Movement Predictor
 
-This project uses **OpenAI's GPT model** to analyze the sentiment of daily headlines and explore how it correlates with **NVIDIA (NVDA)** stock price changes. 
+This project uses **OpenAI's GPT model** to analyze the sentiment of daily headlines and explore how it correlates with **NVIDIA (NVDA)** stock price changes. This information can be used to make informed decisions, and take trades accordingly. 
 
 ---
 
